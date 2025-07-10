@@ -2,9 +2,6 @@
 
 A simple web-based typing game to test your typing speed and accuracy. This game randomly displays a sentence, and you must type it as fast and accurately as you can. Once done, you'll see your score and the time taken.
 
-## 🚀 Live Demo
-
-👉 [Click Here to Play](https://manish004-code.github.io/typing-challenge/)
 
 
 ## 📁 Project Structure
