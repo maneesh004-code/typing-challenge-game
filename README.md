@@ -4,8 +4,8 @@ A simple web-based typing game to test your typing speed and accuracy. This game
 
 ## 🚀 Live Demo
 
-👉 [Click Here to Play](https://maneesh004-code.github.io/typing-challenge-game/)  
-*(Make sure you’ve enabled GitHub Pages — see steps below)*
+👉 [Click Here to Play](https://manish004-code.github.io/typing-challenge/)
+
 
 ## 📁 Project Structure
 
